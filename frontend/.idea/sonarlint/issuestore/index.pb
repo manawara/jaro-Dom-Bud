@@ -1,0 +1,33 @@
+
+A
+src/views/Root.js,7/c/7c80002fe49373a18f172b2cf3737b124bd7ae76
+P
+ src/assets/styles/GlobalStyle.js,9/b/9b5442790c7e0026de14a28eb8879ae9c57e61d7
+g
+7src/components/organisms/ImageWithText/ImageWithText.js,5/c/5cc8f42c25215a4c30c43da1bd4ad43bd579a756
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+W
+'src/components/atoms/Heading/Heading.js,3/c/3ce7b310eb159005b0bb523fe857fc572d35b525
+J
+src/assets/styles/theme.js,8/6/863c7c5ab2ecd3af6c9f94ba5b4ebe32d15ccecd
+U
+%src/components/atoms/Button/Button.js,d/2/d2c5187768796ccc9a3240fe6dd62b7ac0a297d6
+o
+?src/components/molecules/NavigationDesktop/NavigationDesktop.js,4/f/4f385bf301a3d81ab29f792446b7f60d0b6c124f
+?
+src/.prettierrc,0/1/0121679242f6249fa9cdd80883eaa4776e1cbacf
+B
+src/.eslintrc.json,5/1/51adb5a739fa491b329f16abf72f1bb1b6044f7b
+U
+%src/components/molecules/Card/Card.js,3/4/349ef641ba1d32026acd2dc44257e50c5e30d463
+Q
+!src/helper/Container/Container.js,9/6/96eda36820f373f69dded90460ab1678aa86fec5
+m
+=src/components/molecules/NavigationMobile/NavigationMobile.js,c/1/c1792d59338870288ff6f4ed9f01a8e3a2944eab
+K
+src/assets/styles/fonts.css,b/e/bef7526c8e6817b2031d906205ce36b618224477
+<
+package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
+e
+5src/components/organisms/ReviewClient/ReviewClient.js,d/8/d807c0350e4954986868db010561a9f23fd86478
